@@ -48,17 +48,13 @@ The offensive component of the system, responsible for adversary manipulation th
 
 ---
 
-## Professional Deployment Log
+## Project Resources
 
-| Date | Time (UTC) | Action | Result |
-| :--- | :--- | :--- | :--- |
-| 2026-04-10 | 15:07 | Local Repository Initialization | Git initialized; workspace prepared. |
-| 2026-04-10 | 15:08 | Remote Origin Handshake | Successfully linked to gurarpitzz/AETHER-Concept2. |
-| 2026-04-10 | 15:09 | Initial Source Push | Primary source code successfully committed to main branch. |
-| 2026-04-10 | 15:11 | Vercel Build Discovery | Vercel detected project and initiated deployment framework. |
-| 2026-04-10 | 15:15 | Environment Configuration | GEMINI_API_KEY successfully injected; build successful. |
-| 2026-04-10 | 15:30 | Documentation Update | Expanded README with high-fidelity visual assets. |
-| 2026-04-10 | 15:45 | System Optimization | Refined documentation for professional technical standard. |
+For further analysis and understanding of the AETHER architecture, the following resources are available:
+
+- **Project Dataset**: [AETHER Threat Data Repository](https://drive.google.com/drive/folders/1iVA3zgfd-ek2CnMqKF9n7d7LY18EutMY?usp=sharing)
+- **Access Video**: [AETHER System Architecture & Operational Guide](https://drive.google.com/file/d/1uSyJl79Ziea69_98DhLlZRu1aitBSXC_/view?usp=sharing)
+- **Project Presentation**: [AETHER Concept PPT](https://drive.google.com/drive/folders/1gm-7JYKgJUWkmJ-GwpVJee_XqMZcr4EA?usp=sharing)
 
 ---
 
