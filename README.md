@@ -55,6 +55,7 @@ For further analysis and understanding of the AETHER architecture, the following
 - **Project Dataset**: [AETHER Threat Data Repository](https://drive.google.com/drive/folders/1iVA3zgfd-ek2CnMqKF9n7d7LY18EutMY?usp=sharing)
 - **Access Video**: [AETHER System Architecture & Operational Guide](https://drive.google.com/file/d/1uSyJl79Ziea69_98DhLlZRu1aitBSXC_/view?usp=sharing)
 - **Project Presentation**: [AETHER Concept PPT](https://drive.google.com/drive/folders/1gm-7JYKgJUWkmJ-GwpVJee_XqMZcr4EA?usp=sharing)
+- **Research Dosseier**: [Research Dosseier]([https://drive.google.com/file/d/1R86HZqHkpZrGs-jjVugX5c6kLSA-GLLB/view?usp=sharing])
 
 ---
 
